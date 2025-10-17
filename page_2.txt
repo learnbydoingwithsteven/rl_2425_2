@@ -1,0 +1,35 @@
+=== PAGE 2 ===
+
+Explore different feature representations, including binary features (card presence) and polynomial features.
+Evaluate the impact of different feature sets on learning speed and policy performance.
+Project 3: Primal Hunt
+ 
+Main Focus
+ 
+DQN and the importance of experience replay and target network.
+Problem Description
+ 
+The agent is a primitive hunter trying to gather enough food to survive. The environment is dangerous due to the 
+presence of wild animals, hostile tribes and natural obstacles such as rivers, mountains, forests. Hunting requires 
+energy and there are risks to be injuried. The hunting goals are different: vegetables and fruit are easy and require 
+low energy, but provide low reward; small animals are moderately risky and provide a moderate reward; big ani-
+mals provide a large reward but they huge risks. The goal is to come back home at night with enough food to sur-
+vive, recovering all the energy used during the day.
+Challenging variant
+ 
+The environment occasionally changes as wild animals and hostile tribes move across the map, and shifting wea-
+ther conditions may alter natural obstacles. However, the agent can learn to recognize the signs of danger.
+Tasks
+ 
+Implement the environment and define a suitable state-action space.
+Train an RL agent using Deep Q-Networks (DQN) to learn optimal paths.
+Conduct an ablation study to analyze the importance of experience replay and target networks in stabilizing 
+learning.
+Compare training curves with and without these components to demonstrate their impact.
+Project 4: Push Your Luck!
+ 
+Main Focus
+ 
+Policy Gradient Methods.
+Problem Description
+ 
