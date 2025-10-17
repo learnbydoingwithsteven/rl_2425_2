@@ -272,11 +272,6 @@ agent.load('agent_binary.pkl')
 
 ## 🔗 Related Resources
 
-### Course Materials
-- Reinforcement Learning Course 2024-25
-- Prof. Nicolò Cesa-Bianchi
-- Prof. Alfio Ferrara
-
 ### External References
 - Sutton & Barto: RL Introduction (Chapters 9-10)
 - Blackjack optimal strategy charts

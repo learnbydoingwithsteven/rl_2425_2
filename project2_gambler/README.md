@@ -286,15 +286,6 @@ Replace SARSA with Q-Learning or Expected SARSA in `lfa_agent.py`
 
 ---
 
-## 👥 Author
-
-**Reinforcement Learning Course 2024-25**
-- Prof. Nicolò Cesa-Bianchi
-- Prof. Alfio Ferrara
-- Course Assistants: Elisabetta Rocchetti, Luigi Foscari
-
----
-
 ## 📄 License
 
 This project is part of the Reinforcement Learning course materials.

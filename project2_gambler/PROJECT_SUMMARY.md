@@ -390,23 +390,6 @@ The project provides a complete, production-ready solution with:
 
 ---
 
-## 👥 Credits
-
-**Reinforcement Learning Course 2024-25**
-- Prof. Nicolò Cesa-Bianchi
-- Prof. Alfio Ferrara
-- Course Assistants: Elisabetta Rocchetti, Luigi Foscari
-
----
-
-**Project Completion Date**: 2025
-**Total Development Time**: ~2 hours
-**Lines of Code**: ~1,500+
-**Visualizations Generated**: 2 comprehensive charts
-**Trained Agents**: 3 (binary, polynomial, combined features)
-
----
-
 ## 📞 Support
 
 For questions or issues:
